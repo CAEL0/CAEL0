@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCAEL0&count_bg=%233A3462&title_bg=%2348919E&icon=apachespark.svg&icon_color=%23FFF9C6&title=hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCAEL0&count_bg=%233A3462&title_bg=%2348919E&icon=apachespark.svg&icon_color=%23FFF9C6&title=hits%21&edge_flat=false)]
 
- [![CAEL0's github stats](https://github-readme-stats.vercel.app/api?username=CAEL0)](https://github.com/anuraghazra/github-readme-stats)
+ [![CAEL0's github stats](https://github-readme-stats.vercel.app/api?username=CAEL0)]
  
 <!--
 **CAEL0/CAEL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
