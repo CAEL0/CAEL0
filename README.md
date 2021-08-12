@@ -1,4 +1,4 @@
-[![Blog Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github)](https://cael0.github.io/)
+[![Blog Badge](https://img.shields.io/badge/-Github.io-181717?style=flat&logo=Github)](https://cael0.github.io/)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://cael0.github.io/)
 
