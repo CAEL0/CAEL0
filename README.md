@@ -1,6 +1,6 @@
 ### Hi 👋
 
-https://img.shields.io/static/v1?label=<aaa>&message=<bbb>&color=<orange>
+![a](https://img.shields.io/static/v1?label=<aaa>&message=<bbb>&color=<orange>)
 
 ### [🌟My Github Blog🌟](https://cael0.github.io/)
 
