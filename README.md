@@ -1,6 +1,4 @@
-### Hi 👋
-
-![](https://img.shields.io/static/v1?label=🧊&message=bbb&color=orange)
+![](https://img.shields.io/static/v1?label=🧊&message=bbb&color=orange)(https://www.naver.com)
 
 ### [🌟My Github Blog🌟](https://cael0.github.io/)
 
