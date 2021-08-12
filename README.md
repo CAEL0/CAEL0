@@ -1,4 +1,4 @@
-[![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-181317?style=flat&logo=Github)](https://cael0.github.io/)
+[![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-181717?style=for-the-badge&logo=Github)](https://cael0.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://cael0.github.io/)
 
 
