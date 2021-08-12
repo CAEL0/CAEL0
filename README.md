@@ -1,5 +1,5 @@
 [![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat&logo=github)](https://cael0.github.io/)
-[![Google Mail Badge](https://img.shields.io/badge/-kjongmin26@gmail.com-333333?style=flat&logo=gmail)](https://cael0.github.io/)
+[![Google Mail Badge](https://img.shields.io/badge/-kjongmin26@gmail.com-FFFFFF?style=flat&logo=gmail)](https://cael0.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook)](https://cael0.github.io/)
 
 
