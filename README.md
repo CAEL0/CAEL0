@@ -1,5 +1,7 @@
 ### Hi 👋
 
+[hi](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+
 ### [🌟My Github Blog🌟](https://cael0.github.io/)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCAEL0&count_bg=%233A3462&title_bg=%2348919E&icon=apachespark.svg&icon_color=%23FFF9C6&title=hits%21&edge_flat=false)
