@@ -6,7 +6,7 @@
 
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)aaa
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact)
 
 <!--
