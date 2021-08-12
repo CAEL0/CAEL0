@@ -1,6 +1,6 @@
-[![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat&logo=github-FFFFFF)](https://cael0.github.io/)
-[![Google Mail Badge](https://img.shields.io/badge/-kjongmin26@gmail.com-EA4335?style=flat&logo=gmail-FFFFFF)](https://cael0.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor='white')](https://cael0.github.io/)
+[![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://cael0.github.io/)
+[![Google Mail Badge](https://img.shields.io/badge/-kjongmin26@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://cael0.github.io/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://cael0.github.io/)
 
 
 
