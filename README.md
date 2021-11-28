@@ -1,7 +1,3 @@
-Hi
-
-<br>
-
 [![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://cael0.github.io/)
 ![Google Mail Badge](https://img.shields.io/badge/-kjongmin26@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/j_ngminn/)
