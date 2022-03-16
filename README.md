@@ -12,6 +12,7 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
 
 <!--
