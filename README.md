@@ -18,6 +18,4 @@
     <a href=""><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)
-
-<a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a> -->
