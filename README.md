@@ -6,7 +6,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact?exclude_repo=productive-box,rally-discordbot-dashboard&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact?exclude_repo=productive-box,rally-discordbot-dashboard&langs_count=5)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)
 
