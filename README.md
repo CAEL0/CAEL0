@@ -6,10 +6,12 @@
 
 <br>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)
 
 <a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
