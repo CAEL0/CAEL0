@@ -6,16 +6,14 @@
 
 <br>
 
-<div style="display: none">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10" />
-</div>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10" /> -->
+
+<a href="https://solved.ac/luciaholic"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight" />
 
 <br>
 
-<div>
-    <a href="https://solved.ac/luciaholic"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic" /></a>
-    <a href="https://opgc.me/#/users/CAEL0"><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
-</div>
+
+<!-- <a href="https://opgc.me/#/users/CAEL0"><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a> -->
 
 <!-- <a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a> -->
