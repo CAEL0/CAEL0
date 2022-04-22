@@ -7,7 +7,7 @@
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&hide=Jupyter Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&hide=jupyter%20notebook)
 
 <br>
 
