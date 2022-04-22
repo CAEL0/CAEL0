@@ -15,7 +15,7 @@
 
 <div>
     <a href="https://solved.ac/luciaholic"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic" /></a>
-    <a href=""><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
+    <a href="https://opgc.me/#/users/CAEL0"><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
 </div>
 
 <!-- <a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a> -->
