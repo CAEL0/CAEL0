@@ -6,7 +6,9 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10" style="display: none"/>
+<div style="display: none">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10" />
+</div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight" />
 
 <br>
