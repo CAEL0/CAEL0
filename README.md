@@ -8,7 +8,7 @@
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10" /> -->
 
-<a href="https://solved.ac/luciaholic"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic" width="50%" /></a>
+<a href="https://solved.ac/luciaholic"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight" width="50%" />
 
 <br>
