@@ -19,7 +19,3 @@
 </div>
 
 <!-- <a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a> -->
-
-.div {
-    display: none;
-}
