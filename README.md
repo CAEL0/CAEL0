@@ -9,8 +9,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&hide=jupyter%20notebook,scss)
 
-<br>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://opgc.me/#/users/CAEL0" target="_blank"><img src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
