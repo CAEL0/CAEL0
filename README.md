@@ -15,3 +15,6 @@
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10" /></a>
 
 <a href="https://opgc.me/#/users/CAEL0"><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
+
+
+## Activities
