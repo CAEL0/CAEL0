@@ -16,5 +16,6 @@
 
 <a href="https://opgc.me/#/users/CAEL0"><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
 
+<br>
 
 ## Activities
