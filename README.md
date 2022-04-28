@@ -17,5 +17,6 @@
 <a href="https://opgc.me/#/users/CAEL0"><img align="right" src="https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><hr>
-
-## Activities
+## Activity
+* (2017.03 ~ ) 연세대학교 수학과
+* (2021.07 ~ ) 연세대학교 빅데이터 학회 YBIGTA Science팀
