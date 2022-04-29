@@ -20,3 +20,6 @@
 ## Activity
 * (2017.03 ~ ) 연세대학교 수학과
 * (2021.07 ~ ) 연세대학교 빅데이터 학회 YBIGTA Science팀
+
+## Award
+* (2021.11) [ICPC Seoul Regional (34th)](http://static.icpckorea.net/2021/scoreboard_regional/)
