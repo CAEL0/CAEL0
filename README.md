@@ -22,5 +22,5 @@
 * (2021.07 ~ ) 연세대학교 빅데이터 학회 YBIGTA Science팀
 
 ## Award
-* (2021.11) [ICPC Seoul Regional (34th)](http://static.icpckorea.net/2021/scoreboard_regional/)
-* (2022.03) [2022 연세대학교 신학기맞이 프로그래밍 경진대회 (1st)](https://www.acmicpc.net/contest/view/776)
+* (2021.11) [ICPC Seoul Regional](http://static.icpckorea.net/2021/scoreboard_regional/) (34th)
+* (2022.03) [2022 연세대학교 신학기맞이 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/776) (1st)
