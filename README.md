@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://solved.ac/luciaholic"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic" /></a>
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic")](https://solved.ac/luciaholic)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight" width="50%" />
 
