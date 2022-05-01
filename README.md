@@ -11,7 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![OPGC](https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic)](https://opgc.me/#/users/CAEL0)
 
-<hr>
+<br><hr><br>
+
 ## Activity
 * (2017.03 ~ ) 연세대학교 수학과
 * (2021.07 ~ ) 연세대학교 빅데이터 학회 YBIGTA Science팀
