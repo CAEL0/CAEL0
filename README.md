@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![OPGC](https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic)](https://opgc.me/#/users/CAEL0)
 
-<br><hr><br>
+<br><hr>
 
 ## Activity
 * (2017.03 ~ ) 연세대학교 수학과
