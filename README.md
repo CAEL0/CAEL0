@@ -7,6 +7,7 @@
 <br>
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)
+[![CodeForces Profile](https://cf.leed.at?id=CAELO)](https://codeforces.com/profile/CAELO)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight)](https://github.com/CAEL0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![OPGC](https://api.opgc.me/githubs/users/CAEL0/tag/?theme=basic)](https://opgc.me/#/users/CAEL0)
