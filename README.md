@@ -29,4 +29,4 @@
 
 ## Project
 * (2022.08.12 ~ 2022.08.28) [YBIGTA 신입기수 프로젝트 wine4u](https://github.com/CAEL0/wine4u)
-* mondegrae
+* (2022.12.17 ~ 2022.12.25) [mondegrae](https://github.com/CAEL0/mondegrae)
