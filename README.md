@@ -28,5 +28,5 @@
 * (2022.03) [2022 연세대학교 신학기맞이 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/776) (1st)
 
 ## Project
-* (2022.08.12 ~ 2022.08.28) [YBIGTA 신입기수 프로젝트 wine4u](https://github.com/CAEL0/wine4u)
-* (2022.12.17 ~ 2022.12.25) [mondegrae](https://github.com/CAEL0/mondegrae)
+* (2021.08.12 ~ 2021.08.28) [YBIGTA 신입기수 프로젝트 wine4u](https://github.com/CAEL0/wine4u)
+* (2021.12.17 ~ 2021.12.25) [YBIGTA 2021-2 컨퍼런스 mondegrae](https://github.com/CAEL0/mondegrae)
