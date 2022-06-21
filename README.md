@@ -24,7 +24,7 @@
 * (2021.08.21) [2021 ICPC Sinchon Summer Algorithm Camp Contest 중급](https://www.acmicpc.net/contest/view/677) (2nd)
 * (2021.10.30) [2021 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/699) (3rd)
 * (2021.11) [ICPC Seoul Regional](http://static.icpckorea.net/2021/scoreboard_regional/) (34th)
-* (2022.02) [2022 ICPC Sinchon Winter Algorithm Camp Contest 중급](https://www.acmicpc.net/contest/view/758) (3rd)
+* (2022.02.19) [2022 ICPC Sinchon Winter Algorithm Camp Contest 중급](https://www.acmicpc.net/contest/view/758) (3rd)
 * (2022.03) [2022 연세대학교 신학기맞이 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/776) (1st)
 
 ## Project
