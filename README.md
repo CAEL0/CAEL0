@@ -31,4 +31,4 @@
 * (2021.08.12 ~ 2021.08.28) [YBIGTA 2021-2 신입기수 프로젝트 wine4u](https://github.com/CAEL0/wine4u)
 * (2021.12.17 ~ 2021.12.25) [YBIGTA 2021-2 컨퍼런스 mondegrae](https://github.com/CAEL0/mondegrae)
 * (2022.05.04 ~ 2022.06.10) [인터넷프로그래밍 프로젝트 GreenScan](https://github.com/CAEL0/greenscan)
-* (2022.05.22 ~ ) YBIGTA 2022-1 컨퍼런스 Boxoffice DashBoard
+* (2022.05.22 ~ 2022.06.25) YBIGTA 2022-1 컨퍼런스 Boxoffice DashBoard
