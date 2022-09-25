@@ -28,6 +28,7 @@
 * (2022.02.19) [2022 ICPC Sinchon Winter Algorithm Camp Contest 중급](https://www.acmicpc.net/contest/view/758) (3rd)
 * (2022.02.26) [2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2022 Winter)](https://www.acmicpc.net/contest/view/764) (7th)
 * (2022.03.19) [2022 연세대학교 신학기맞이 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/776) (1st)
+* (2022.05.14) [2022 Code Jam Round 2](https://codingcompetitions.withgoogle.com/codejam/round/00000000008778ec)
 * (2022.07.02) [2022 UCPC 예선](https://www.acmicpc.net/contest/spotboard/827) (46th)
 * (2022.08.21) [2022 ICPC Sinchon Summer Algorithm Camp Contest 중급](https://www.acmicpc.net/contest/view/842) (5th)
 * (2022.09.03) [2022 SCPC Finalist](https://www.codeground.org/contest/contest)
