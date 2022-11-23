@@ -36,7 +36,7 @@
 * (2022.09.04) [2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2022 Summer)](https://www.acmicpc.net/contest/view/840) (3rd)
 * (2022.10.08) [2022 ICPC Seoul Regional 예선](http://static.icpckorea.net/2022/scoreboard_preliminary/) (88th)
 * (2022.11.05) [2022 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/890) (1st)
-* (2022.11.19) [2022 ICPC Seoul Regional 본선](http://static.icpckorea.net/2022/scoreboard_regional/) (51th)
+* (2022.11.19) [2022 ICPC Seoul Regional 본선](http://static.icpckorea.net/20221119/scoreboard/) (51th)
 
 ## Project
 * (2021.08.12 ~ 2021.08.28) [YBIGTA 2021-2 신입기수 프로젝트 wine4u](https://github.com/CAEL0/wine4u)
