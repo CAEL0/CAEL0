@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity
-* (2017.03 ~ ) 연세대학교 수학과
+* (2017.03 ~ 2023.02) 연세대학교 수학과
 * (2021.07 ~ 2022.07) 연세대학교 빅데이터 학회 YBIGTA Science팀
 * (2021.07 ~ 2022.12) 연세대학교 알고리즘 동아리 모르고리즘
 * (2022.04 ~ 2022.06) 연세대학교 보안/해킹 동아리 YSC
