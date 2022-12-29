@@ -16,6 +16,7 @@
 * (2021.07 ~ 2022.07) 연세대학교 빅데이터 학회 YBIGTA Science팀
 * (2021.07 ~ 2022.12) 연세대학교 알고리즘 동아리 모르고리즘
 * (2022.04 ~ 2022.06) 연세대학교 보안/해킹 동아리 YSC
+* (2023.01 ~ 2023.04) 야놀자 인턴
 
 ## Award
 * (2021.08.21) [2021 ICPC Sinchon Summer Algorithm Camp Contest 중급](https://www.acmicpc.net/contest/view/677) (2nd)
