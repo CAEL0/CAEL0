@@ -8,7 +8,7 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=luciaholic)](https://solved.ac/luciaholic)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=luciaholic&theme=warm)](https://solved.ac/luciaholic)
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=CAEL0&show_icons=true&theme=tokyonight&card_width=200px)](https://github.com/CAEL0) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAEL0&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![CodeForces Profile](https://cf.leed.at?id=CAELO)](https://codeforces.com/profile/CAELO)
 
 ## Activity
