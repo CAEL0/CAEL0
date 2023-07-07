@@ -20,6 +20,7 @@
 * (2017.03 ~ 2023.02) 연세대학교 수학과
 
 ## Award
+* (2023.07.07) [2023 현대모비스 알고리즘 경진대회](https://career.programmers.co.kr/competitions/3419) (4th)
 * (2022.11.19) [2022 ICPC Seoul Regional 본선](http://static.icpckorea.net/20221119/scoreboard/) (51th)
 * (2022.11.05) [2022 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/890) (1st)
 * (2022.10.08) [2022 ICPC Seoul Regional 예선](http://static.icpckorea.net/2022/scoreboard_preliminary/) (88th)
