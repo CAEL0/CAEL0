@@ -12,6 +12,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=CAELO)](https://codeforces.com/profile/CAELO)
 
 ## Activity
+* (2023.07 ~ ) 네이버
 * (2023.01 ~ 2023.03) 야놀자 Software Engineering 인턴
 * (2022.04 ~ 2022.06) 연세대학교 보안/해킹 동아리 YSC
 * (2021.07 ~ 2022.12) 연세대학교 알고리즘 동아리 모르고리즘
